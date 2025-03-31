@@ -1,1 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>Ancha-Tech</title>
+        <link rel="stylsheet" type="text/css" />
+    </head>
 
+
+    <body>
+        <header>
+            <img src= "" alt =""/>
+            <nav>
+                <ul>
+                    <li> <a href="#"> Home </a> </li>
+                    <li> <a href=""> Services</a> </li>
+                    <li> <a href=""> Products</a> </li>
+                    <li> <a href=""> Contact </a></li>
+                    <li> <a href=""> About </a></li>
+                </ul>
+            </nav>
+            <h1>Ancha Tech ltd</h1>
+        </header>
+
+        <article>
+            <section>
+                <p>
+                    Ancha Tech is a limited liability company. it is a start up dedicated to connecting mom and pop stores to the internet. this helps them scale and increases their chances of being seeing by the local internet users when their services are being seeked online.<br/>
+                    We are dedicated to the visibility of the small stores and market places. 
+                </p>
+
+                <h4>Our Mission</h4>
+                <p>To give the local families a chance at being visible by people who live close by but have no idea they exist or what services they offer</p>
+
+                <h4>Our Vision</h4>
+                <p>To make sure all local stores get the boost they need to become a viable business and to help ease the access of trade and advertisement to the stores under our company</p>
+            </section>
+            <aside>
+                <p>
+                    This is the aside of the article
+                </p>
+            </aside>
+        </article>
+        <footer>
+            &copy; Ancha Tech <br/> This is the footer of the main page
+        </footer>
+    </body>
+</html>
